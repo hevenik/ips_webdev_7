@@ -1,6 +1,7 @@
 body {
     margin: 0;
 }
+
 .container {
     position: relative;
     background-color: #ffffff;
@@ -8,6 +9,7 @@ body {
     height: 950px;
     margin: 0 auto;
 }
+
 /* header    */
 .logo {
     display: inline-block;
@@ -49,6 +51,7 @@ body {
     padding: 12px 25px 14px 25px;
     font: bold 15px/50px "Lato", sans-serif;
 }
+
 /* main    */
 .main_photo {
     display: inline-block;
@@ -56,7 +59,7 @@ body {
 }
 
 .main {
-   margin: 63px 0 auto 200px;
+    margin: 63px 0 auto 200px;
 }
 
 .main_content {
@@ -126,6 +129,7 @@ body {
     background-color: #eae9e9;
     border: 1px solid #f56567;
 }
+
 /* footer   */
 .footer {
     position: relative;
@@ -140,6 +144,6 @@ body {
 .footer img:nth-child(2),
 .footer img:nth-child(3),
 .footer img:nth-child(4),
-.footer img:nth-child(5){
+.footer img:nth-child(5) {
     transform: scale(0.65);
 }
